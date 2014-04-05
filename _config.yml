@@ -3,3 +3,4 @@ lsi: false
 pygments: true
 source: /uncleserb.github.io
 markdown: kramdown
+permalink: /:title
